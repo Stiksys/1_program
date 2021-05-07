@@ -1,1 +1,0 @@
-#tu będzie funkcjonalność automatu
